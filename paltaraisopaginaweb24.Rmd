@@ -1,0 +1,61 @@
+---
+output:
+  html_document: 
+    always_allow_html: true
+  pdf_document: default
+  word_document: default
+---
+
+``````{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE, warning = FALSE, message = FALSE)
+``````
+
+<center> 
+# Paltaraíso
+
+Paltas criollas de árbol abrazado, pesan entre 250 y 500 gramos cada una.
+
+🥑 [contacto](#contacto)🍋[precios](#precios)🌿[modalidad](#modalidad)🍋[piques&recetas](#recetas)🥑
+</center>
+
+<center>[!["LINK"](PALTARAISO.png){ width=60% }](https://link.mercadopago.com.uy/avesdeaca "Links de pago abierto")</center>
+
+### Contacto {#contacto}
+
+[Llamános o escribínos por celular.](Tel: +59899554077)
+
+### Lista de precios {#precios}
+[ ]{#pago}
+
+|Qué                    |Precio|MercadoPago| 
+|:---------------------:|:-:|:-:|
+|3: una madura y dos verdes o al revés.| $200 | [$213](http://mpago.la/31RmwGe)|
+|10: al menos dos maduras.| $500| [$533](http://mpago.la/2o3tWDt)|
+|MiniPack: 3 paltas, 3 limones, 3 ramas grandes de romero, 15 hojas de laurel.|$225| [$240](http://mpago.la/2iNfQL2)|
+|MedioPack: 5 paltas, 5 limones, 5 ramas grandes de romero, 25 hojas de laurel.|$333|[$355](http://mpago.la/2aV86WE)|
+|GrandPack: 8 paltas, 8 limones, 8 ramas grandes de romero, 40 hojas de laurel. |$500 |[$533](http://mpago.la/1F2hk83)|
+|1kg de limones, romero, laurel, aloe saponia.|$50|[$55](http://mpago.la/2xCmok5)|
+
+### Modalidad de retiro o entrega y pago {#modalidad}
+
+* A **retirar** en Lomas de Solymar.
+* Se puede coordinar entrega en Montevideo o  la costa de Canelones.
+* Los precios son de referencia, se puede abonar en efectivo o por transferencia bancaria.
+* Recibimos propuestas de trueque por otros alimentos o servicios.
+* Los links de pago son para facilitar e incluyen la comisión de **MercadoPago**. 
+
+
+<center>[!["LINK"](banda palta limon.png){ width=99% }](https://link.mercadopago.com.uy/avesdeaca "Links de pago abierto")</center>
+
+### ¿Cómo aprovechar una palta? Piques y recetas {#recetas}
+
+* La palta está pronta para comer cuando la apretás y tiene la misma consistencia que una banana madura. 
+* Para acelerar maduración: poner con otras frutas como manzana, banana o cítricos.
+* Se guarda en la heladera para que dure más.
+* Para evitar que se oxide (quede oscura): rociar con jugo de limón, y mantener en contacto con el carozo.
+
+* Receta de Guacamole: pisar pulpa de palta, rallar tomate y cebolla, limón, sal y pimienta. Solo mezclar para una textura rústica o pasar por el mixer para que quede cremoso. 
+
+* [Receta de malfatti: solo de palta ](https://www.marubotana.tv/recipe-items/noquis-de-palta-y-ricota/) o [con ricota.](https://es.tastemade.com/videos/malfatti-de-palta-y-ricota/)
+
+* [Receta de mousse.](https://www.instagram.com/p/Ch72W52sQS-/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==)
